@@ -39,7 +39,7 @@ https://emea.api.concursolutions.com/budget/v4/
 1. [Create a sandbox](https://developer.concur.com/manage-apps/register.html) if you don't already have one.
 2. Read the [Getting Started](https://developer.concur.com/api-reference/authentication/getting-started.html) section of [Authentication API](https://developer.concur.com/api-reference/authentication/apidoc.html).
 
-Once you have registered your application, read about the [Budget Category](./budget-category.html), [Fiscal Year](./fiscal-year.html), [Budget Tracking Field](./cost-object.html), and [Budget Item Header](./budget-header.html) endpoints.
+Once you have registered your application, read about the [Budget Category](budget-category.html), [Fiscal Year](fiscal-year.html), [Budget Tracking Field](./cost-object.html), and [Budget Item Header](./budget-header.html) endpoints.
 
 #### Retrieve a User Access Token:
 
